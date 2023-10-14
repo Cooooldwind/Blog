@@ -1,5 +1,5 @@
 ---
-title: CooooldWind_の试炼历程 (3)
+title: CooooldWind_の试炼历程 (4)
 date: 2023-10-14 15:45:00
 tags: 
 - 题解
