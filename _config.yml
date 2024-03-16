@@ -97,11 +97,14 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: redefine-2.5.0
+theme: redefine
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Cooooldwind/cooooldwind.github.io
+  repo: git@gitee.com:CooooldWind/cooooldwind.github.io.git
   branch: main
+  # type: git
+  # repo: git@github.com:Cooooldwind/cooooldwind.github.io
+  # branch: main

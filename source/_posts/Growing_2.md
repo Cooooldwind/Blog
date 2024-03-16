@@ -5,18 +5,15 @@ tags:
 - 题解
 - CooooldWind_の试炼历程
 mathjax: true
+categories:
+- 算法竞赛
 ---
 
-# 欢迎来到CooooldWind_的试炼历程
+## 欢迎来到CooooldWind_的试炼历程
 
 本系列主要是讲自己在平常做题的时候的一些小花絮，但是已经托更很久了，趁着刚搞好GitHub Pages，今天把之前的都推下（外传就算了吧）。
 
 ## 做个[P3955](https://www.luogu.com.cn/problem/P3955)。
-
-###### 广告：[博客食用更香](https://www.luogu.com.cn/blog/747369/ColdWind-Growing-2)
-
----
-
 
 ### 思路
 

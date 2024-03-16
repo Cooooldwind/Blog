@@ -4,6 +4,8 @@ date: 2023-10-14 14:00:00
 tags: 
 - 题解
 mathjax: true
+categories:
+- 算法竞赛
 ---
 
 # 欢迎收看CooooldWind的题解
