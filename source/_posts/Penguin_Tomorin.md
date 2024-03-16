@@ -7,6 +7,8 @@ tags:
 mathjax: true
 categories:
 - 杂物箱
+password: tomorin
+excerpt: "密码：爱音对灯的爱称（7个字符）"
 ---
 
 ### 一
@@ -199,6 +201,7 @@ categories:
 一个一辈子的乐队。
 
 ### 八
+
 半夜三点半。爱音家的门铃响了。
 
 开门的是爱音，被祥子撞到了的也是爱音。
