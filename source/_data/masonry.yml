@@ -1,3 +1,3 @@
 - image: https://img2.imgtp.com/2024/04/18/NshPFudD.JPG
-  title: test
-  description: test
+  title: 从研学活动中顺回来的ESP8266开发板
+  description: 如题。然后隔天我就刷上了AT固件（原本没有，里面只有一个很基础的控制D5~D7口电平从而使外接LED灯泡亮灯两秒的小东西）。
